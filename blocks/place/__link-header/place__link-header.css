@@ -1,0 +1,10 @@
+.place__link-header {
+  margin: 0;
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 1;
+  letter-spacing: 0.2em;
+  color: #aaa;
+}
