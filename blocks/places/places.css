@@ -4,6 +4,8 @@
   max-width: 984px;
   margin: 0 auto;
   padding-bottom: 52px;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
@@ -24,3 +26,5 @@
     max-width: 320px;
   }
 }
+
+

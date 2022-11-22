@@ -2,8 +2,9 @@
   align-self: end;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 480px) {
   .place__site {
-    display: none;
+    margin: 0 auto;
+    width: calc(100% - 2*16px);
   }
 }
